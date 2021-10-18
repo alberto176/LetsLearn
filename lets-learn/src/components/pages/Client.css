@@ -1,0 +1,27 @@
+.client-container{
+    /*background: url('https://cdn.wallpapersafari.com/98/78/OSB34T.jpg') center center/cover no-repeat;;*/
+    background-color: aqua;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+  }
+
+  .client-container > h1 {
+    color: #fff;
+    font-size: 100px;
+    margin-top: relative;
+  }
+
+  .client-btns {
+    margin-top: 32px;
+    accent-color: black;
+    }
+
+  .client-btns .btn {
+    margin: 6px;
+  }
