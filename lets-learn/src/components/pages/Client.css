@@ -24,4 +24,7 @@
 
   .client-btns .btn {
     margin: 6px;
+    width: 200px;
+    color: #fff;
+    background-color: grey;
   }
