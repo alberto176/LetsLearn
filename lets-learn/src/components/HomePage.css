@@ -30,6 +30,9 @@
   
   .hero-btns .btn {
     margin: 6px;
+    width: 200px;
+    color:white;
+    background-color: grey;
   }
   
   .Login {
@@ -38,6 +41,9 @@
 
   .Login .btn {
     margin: 6px;
+    width: 200px;
+    color: #fff;
+    background-color: grey;
   }
   
   @media screen and (max-width: 960px) {
